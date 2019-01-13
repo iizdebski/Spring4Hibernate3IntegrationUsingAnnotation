@@ -1,0 +1,3 @@
+# Spring4Hibernate3IntegrationUsingAnnotation
+
+Spring4Hibernate3IntegrationUsingAnnotation
